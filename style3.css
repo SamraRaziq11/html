@@ -1,5 +1,5 @@
 .s1{
-    color:brown
+    color:brown;
 }
 
 .s2{
@@ -44,4 +44,7 @@
     border-right: 5px solid burlywood;
     border-top: 5px solid crimson; 
     border-bottom: 5px solid cornsilk ;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslateblue;
 }
