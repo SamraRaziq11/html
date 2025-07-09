@@ -48,3 +48,23 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: darkslateblue;
 }
+
+#parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(150, 130, 238);
+    border-radius: 30px;
+    background-color: antiquewhite;
+    background: linear-gradient(to right rgb(149, 149, 229),rgb(244, 167, 167),rgb(234, 195, 123),rgb(38, 12, 12));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
